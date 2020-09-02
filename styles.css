@@ -177,10 +177,20 @@ h1{
   .feature-col{
     padding-bottom: 6%;
   }
-  .container-fluid-price{
+
+  }
+    .container-fluid-price{
     padding-top: 2%;
     margin-left: 19%;
   }
+  .cf-c{
+    margin-left: 25%;
+  }
+  .container-fluid-price{
+    padding-top: 2%;
+    margin-left: 30%;
+  }
+
 }
 #image{
   padding:1%  9% 7%;
