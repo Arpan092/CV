@@ -171,16 +171,13 @@ h1{
     transform: rotate(0deg);
   }
   .container-fluid-middle{
-      margin-left: 13%;
+      margin-left: 20%;
       padding-top: 2%;
   }
   .feature-col{
     padding-bottom: 6%;
   }
 
-  .cf-c{
-    margin-left: 33%;
-  }
   .container-fluid-price{
     padding-top: 2%;
     margin-left: 35%;
