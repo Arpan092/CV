@@ -170,24 +170,21 @@ h1{
   .product{padding-top: 10px;
     transform: rotate(0deg);
   }
-  #features{
-    padding-top: 7%;
-    padding-bottom: 7%;
-    padding-left: 29%;
-    text-align: center;
+  .container-fluid-middle{
+      margin-left: 13%;
+      padding-top: 2%;
   }
   .feature-col{
     padding-bottom: 6%;
   }
 
   .cf-c{
-    margin-left: 33%%;
+    margin-left: 33%;
   }
   .container-fluid-price{
     padding-top: 2%;
     margin-left: 35%;
   }
-
 }
 #image{
   padding:1%  9% 7%;
