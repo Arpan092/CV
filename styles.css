@@ -1,0 +1,244 @@
+#title{
+  padding:1%  9% 7%;
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+
+#features{
+  text-align: center;
+  padding: 3% 0 10% ;
+  background-color: #05dfd7;
+}
+
+#pricing{
+  text-align: center;
+  padding: 3% 0 5%;
+  background-color: #8ac6d1;
+}
+#offers{
+  text-align: center;
+  padding: 3% 0 0;
+  background-color: #81f5ff;
+}
+#navbar{
+  background-color:#000;
+  padding:3% 5% 2%;
+}
+#products{
+  text-align: center;
+  padding: 3% 0 5%;
+}
+#reviews{
+  text-align: center;
+  background-color: #00bcd4;
+  padding: 3% 15% 2%;
+}
+#branding{
+  padding: 0% 0% 1%;
+  background-color: #00bcd4;
+  text-align: center;
+}
+#contact{
+  padding: 3% 0% 5%;
+}
+#form{
+padding: 3% 10% 5%;
+background-color: #05dfd7;
+}
+.phone{
+  width: 70%;
+}
+.model{
+  width: 10%;
+}
+.press{
+  width: 15%;
+  margin:25px 25px 50px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color:#000;
+}
+.carousel-indicators {
+    bottom: -40px;
+}
+
+.carousel-inner{
+  padding-top: 2%;
+}
+
+.a{
+  margin-right: 20px;
+}
+
+.model{
+  width:20%;
+  border-radius:20%;
+  margin: 20px;
+}
+
+.others{
+  width: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.phone1{
+  width: 100%;
+  padding-left:0%;
+}
+.offer{
+  padding: 3%
+}
+.cf-c{
+  margin-left: 16%;
+}
+.container-fluid-price{
+  padding-top: 2%;
+  margin-left: 39%;
+}
+.price-text{
+  padding-top: 4px;
+}
+.card-body1{
+  padding-top: 0;
+}
+.btn-pricing{
+  margin-bottom: 5px;
+}
+h2{
+  font-family: 'Russo One', sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+}
+
+.nav-item{
+  padding:1rem;
+}
+.nav-link{
+  font-size: 1.25rem;
+}
+
+.form-control{
+  margin: 6px 0px 6px;
+}
+.form{
+  margin-left: 73%;
+}
+.navbar-brand{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+.brand-logo{
+  padding: 2%
+}
+.brand-logo:hover{
+  color: #000;
+}
+.brand-logo-b{
+  padding-right:5px;
+}
+.brand-logo-b:hover{
+  color: #00bcd4;
+}
+
+h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 4.5rem;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+.icon{
+  padding-right: 3px;
+}
+.product{
+  width: 85%;
+  transform: rotate(15deg);
+}
+.cf-top{
+  padding-top: 5%;
+  text-align: center;
+}
+.container-fluid-middle{
+    padding-left: 7%;
+    padding-top: 2%;
+  }
+@media (max-width:1020px) {
+  .product{padding-top: 10px;
+    transform: rotate(0deg);
+  }
+  #features{
+    padding: 7% 15% 7%;
+    text-align: center;
+  }
+  .feature-col{
+    padding-bottom: 6%;
+  }
+  .container-fluid-price{
+    padding-top: 2%;
+    margin-left: 19%;
+  }
+}
+#image{
+  padding:1%  9% 7%;
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+h3{
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+#payment{
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+.payment{
+  padding-left:  5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  color: #000;
+}
+.payment:hover{
+  color:#ff4c68;
+}
+
+
+.social,.social1{
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+}
+.social1:hover{
+  color:#ff4c68;
+}
+
+p{
+  font-weight: bold;
+}
+#contact{
+  color: #fff;
+  background-color:#000;
+  text-align: center;
+}
+.container-fluid-end{
+  padding: 3% 22% 5%;
+}
+.b{
+ padding-top: 3%;
+}
+p{
+  color:#f1c5c5;
+}
+p:hover{
+  color:#fff;
+}
+em{
+  font-weight: bold;
+}
